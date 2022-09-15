@@ -1,10 +1,10 @@
 # CURRICULUM COMPARISON for APCSA
 
-* Curriculum Currently Taught: ProjectSTEM on Canvas platform [Link](https://courses.projectstem.org/courses/77357)
-* Curriculum Comparison: CSAwesome on CodingRooms platform 
+* Curriculum Currently Taught: **ProjectSTEM on Canvas platform** [(Link)](https://courses.projectstem.org/courses/77357)
+* Curriculum Comparison: **CSAwesome on CodingRooms platform** [(Link)](https://app.codingrooms.com/app/course/csawesome-%282022-2023%29-mtMpm6k)
 
 ### ORGANIZATION: 
-* Both platform are organized using the College Board format with 10 units.  I don't notice any major difference in content emphases.
+* Both platform are organized using the [College Board format](https://apcentral.collegeboard.org/courses/ap-computer-science-a) with 10 units.  I don't notice any major difference in content emphases.
 
 ### PEDAGOGICAL STYLE: 
 * Both lead with content videos and lead to student practice coding activities.  
@@ -33,7 +33,7 @@
 
 
 ## TAKEAWAYS:
-* I definitely want to integrate parts of CSAwesome into my curriculum this year, particularly the videos that incorporate new content.  
-* There are also great "Rearrange the Code Blocks" activities that ProjectSTEM does not offer as well.
-* Also, I want to offer students to complete CSAwesome lessons as an alternative if they struggle in a particular unit in ProjectSTEM (ie. if students get less than a 70 on a Unit Test?)
+* **Videos:** I definitely want to integrate parts of CSAwesome into my curriculum this year, particularly the videos that incorporate new content.  
+* **Block Activities:** There are also great "Rearrange the Code Blocks" activities that ProjectSTEM does not offer as well.
+* **Alternative for Struggling Students:** Also, I want to offer students to complete CSAwesome lessons as an alternative if they struggle in a particular unit in ProjectSTEM (ie. if students get less than a 70 on a Unit Test?)
 
